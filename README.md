@@ -3,7 +3,7 @@
 #Overview
 This project involves a comprehensive, interactive Human Resources (HR) analysis of an office using Microsoft Excel. The primary goal is to provide a clear and dynamic view of key workforce metrics, allowing for data-driven insights. The dashboard is designed to analyze various aspects of the office environment, including employee performance, compensation, and demographics. The analysis leverages Excel's powerful tools, such as PivotTables and Slicers, to make the data easily accessible and filterable.
 
-#Objectives
+Objectives
 Analyze Pay for Performance: Examine the relationship between employee salary and performance ratings to identify any correlations or discrepancies.
 
 Identify Gender Salary Gaps: Investigate the salary differences between male and female employees to ensure equitable compensation practices.
