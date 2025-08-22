@@ -1,6 +1,6 @@
 # HR Dashboard analysis 
 ![]([https://github.com/ayushdash004/Netflix_sql_analysis/blob/main/logo.png](https://github.com/ayushdash004/HR-Dashboard-using-excel-/upload/main))
-#Overview
+Overview
 This project involves a comprehensive, interactive Human Resources (HR) analysis of an office using Microsoft Excel. The primary goal is to provide a clear and dynamic view of key workforce metrics, allowing for data-driven insights. The dashboard is designed to analyze various aspects of the office environment, including employee performance, compensation, and demographics. The analysis leverages Excel's powerful tools, such as PivotTables and Slicers, to make the data easily accessible and filterable.
 
 Objectives
